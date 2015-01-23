@@ -11,12 +11,12 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1052.3622"
-   height="744.09448"
-   id="svg3159"
-   version="1.1"
+   sodipodi:docname="gis.svg"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="gis.svg">
+   version="1.1"
+   id="svg3159"
+   height="744.09448"
+   width="1052.3622">
   <sodipodi:namedview
      inkscape:document-units="mm"
      id="base"
@@ -25,10 +25,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.66416517"
-     inkscape:cx="248.91507"
-     inkscape:cy="358.90976"
-     inkscape:current-layer="layer2"
+     inkscape:zoom="0.93927139"
+     inkscape:cx="151.10988"
+     inkscape:cy="428.93829"
+     inkscape:current-layer="layer1"
      showgrid="true"
      units="mm"
      objecttolerance="10"
@@ -187,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1135,15 +1135,6 @@
        xlink:href="#use13506"
        transform="translate(421.2281,0)"
        id="use6742"
-       width="1052.3622"
-       height="744.09448" />
-    <use
-       x="0"
-       y="0"
-       inkscape:tiled-clone-of="#use13506"
-       xlink:href="#use13506"
-       transform="translate(421.2281,52.653512)"
-       id="use6744"
        width="1052.3622"
        height="744.09448" />
     <use
@@ -2396,15 +2387,15 @@
        sodipodi:linespacing="120%"
        id="text10474"
        y="976.55121"
-       x="105.46427"
-       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#5a6167;fill-opacity:1;stroke:none;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Bold"
+       x="139.24146"
+       style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:end;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;text-anchor:end;fill:#5a6167;fill-opacity:1;stroke:none;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Bold"
        xml:space="preserve"><tspan
-         style="font-size:28px;font-weight:bold;fill:#5a6167;fill-opacity:1;-inkscape-font-specification:UniversCyr Bold"
+         style="font-size:28px;font-weight:bold;text-align:end;text-anchor:end;fill:#5a6167;fill-opacity:1;-inkscape-font-specification:UniversCyr Bold"
          y="976.55121"
-         x="105.46427"
+         x="139.24146"
          id="tspan10476"
          sodipodi:role="line"
-         ns1:autoText="slideNumber">ХХ</tspan></text>
+         ns1:autoText="slideNumber">Х</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:28px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:120.00000477%;letter-spacing:0px;word-spacing:0px;fill:#5a6167;fill-opacity:1;stroke:none;font-family:UniversCyr;-inkscape-font-specification:UniversCyr Bold"
@@ -2412,7 +2403,6 @@
        y="976.55121"
        id="text10478"
        sodipodi:linespacing="120%"><tspan
-         ns1:autoText="slideTitle"
          sodipodi:role="line"
          id="tspan10480"
          x="145.02547"
@@ -2442,8 +2432,7 @@
          y="976.55121"
          x="554.24023"
          id="tspan3270"
-         sodipodi:role="line"
-         ns1:autoText="slideTitle">ГИС специального назначения</tspan></text>
+         sodipodi:role="line">ГИС специального назначения</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -2814,7 +2803,7 @@
            sodipodi:ry="65.358116"
            style="color:#000000;fill:#f8f8f8;stroke:#646a70;stroke-width:7.07331133;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            sodipodi:type="arc"
-           d="m 443.15517,414.45084 a 65.358116,65.358116 0 1 1 -130.71623,0 65.358116,65.358116 0 1 1 130.71623,0 z"
+           d="m 443.15517,414.45084 c 0,36.09629 -29.26182,65.35811 -65.35811,65.35811 -36.09629,0 -65.35812,-29.26182 -65.35812,-65.35811 0,-36.09629 29.26183,-65.35812 65.35812,-65.35812 36.09629,0 65.35811,29.26183 65.35811,65.35812 z"
            transform="translate(-31.82,159.6)"
            sodipodi:cy="414.45084"
            sodipodi:cx="377.79706" />
@@ -2841,7 +2830,7 @@
            sodipodi:ry="65.358116"
            style="color:#000000;fill:none;stroke:#646a70;stroke-width:7.07331133;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
            sodipodi:type="arc"
-           d="m 443.15517,414.45084 a 65.358116,65.358116 0 1 1 -130.71623,0 65.358116,65.358116 0 1 1 130.71623,0 z"
+           d="m 443.15517,414.45084 c 0,36.09629 -29.26182,65.35811 -65.35811,65.35811 -36.09629,0 -65.35812,-29.26182 -65.35812,-65.35811 0,-36.09629 29.26183,-65.35812 65.35812,-65.35812 36.09629,0 65.35811,29.26183 65.35811,65.35812 z"
            transform="translate(-31.684,159.72)"
            sodipodi:cy="414.45084"
            sodipodi:cx="377.79706" />
